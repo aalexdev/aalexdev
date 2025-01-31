@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aalexdev or alexandre or alex or aalex or lex or lelex
+- 👋 Hi, I’m @aalexdev or alexandre or alex or aalex or lex
 - 👀 I’m interested in web-development/development in general
 - 🌱 I’m currently learning html(5), css(3), javascript, python, java, php, css, c#
 - 💞️ I’m looking to collaborate on any 
