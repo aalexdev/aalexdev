@@ -3,6 +3,7 @@ Tenho 18 anos e sou um desenvolvedor júnior apaixonado por tecnologia e program
 
 Acredito que minha dedicação, curiosidade e vontade de crescer me tornam o profissional ideal para qualquer equipe. Estou sempre pronto para encarar novos desafios e contribuir com soluções inovadoras.
 
+----------------------------------------------------------------------------------------------------------
 
 Hello, I'm Alex! 👋
 I'm 18 years old and a junior developer passionate about technology and programming. Since I was a child, I've always been in touch with the field, and today I'm focused on systems analysis and development. I'm a student at Centro Educacional CCI Sênior and dedicate several hours a day to learning and evolving in the area.
