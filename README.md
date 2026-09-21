@@ -1,4 +1,4 @@
-#  About Me:
+#  Sobre mim | About Me:
 Olá, eu sou o Alexandre! <br>Tenho 19 anos e sou um Desenvolvedor Back-End júnior apaixonado por tecnologia e programação. Desde criança, sempre tive contato com a área, e hoje estou focado em análise e desenvolvimento de sistemas. Sou estudante do Centro Educacional CCI Sênior e dedico várias horas do meu dia para aprender e evoluir na área.<br> <br>Hello, I'm Alexandre! <br>I'm 19 years old and a junior Back-End Developer passionate about technology and programming. Since I was a child, I've always been in touch with the area, and today I'm focused on systems analysis and development. I'm a student at Centro Educacional CCI Sênior and dedicate several hours of my day to learning and evolving in the field.<br>
 
 #  Socials:
