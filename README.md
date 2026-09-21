@@ -1,8 +1,31 @@
-#  Sobre mim | About Me:
-Olá, eu sou o Alexandre! <br>Tenho 19 anos e sou um Desenvolvedor DevSecOps júnior apaixonado por tecnologia e programação. Desde criança, sempre tive contato com a área, e hoje estou focado em análise e desenvolvimento de sistemas. Sou estudante do Centro Educacional CCI Sênior e dedico várias horas do meu dia para aprender e evoluir na área.<br> <br>Hello, I'm Alexandre! <br>I'm 19 years old and a junior DevSecOps Developer passionate about technology and programming. Since I was a child, I've always been in touch with the area, and today I'm focused on systems analysis and development. I'm a student at Centro Educacional CCI Sênior and dedicate several hours of my day to learning and evolving in the field.<br>
+# Hello, I'm Alexandre!
 
-#  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexandre-lopes-607219351/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexandredev7838@gmail.com) 
+### Junior DevSecOps Developer & Systems Analysis Student
 
-#  Tech Stack:
-![CSS3](https://gitlegacy.co/api/badge/shield?name=CSS3&color=1572B6&style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://gitlegacy.co/api/badge/shield?name=Node.js&color=5FA04E&style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![GitHub](https://gitlegacy.co/api/badge/shield?name=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white) ![Git](https://gitlegacy.co/api/badge/shield?name=Git&color=F05032&style=for-the-badge&logo=git&logoColor=white) ![Linux](https://gitlegacy.co/api/badge/shield?name=Linux&color=FCC624&style=for-the-badge&logo=linux&logoColor=white) ![MySQL](https://gitlegacy.co/api/badge/shield?name=MySQL&color=4479A1&style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://gitlegacy.co/api/badge/shield?name=SQLite&color=003B57&style=for-the-badge&logo=sqlite&logoColor=white)
+---
+### About Me / Sobre Mim
+
+Desenvolvedor DevSecOps júnior de 19 anos, apaixonado por tecnologia e focado em Análise e Desenvolvimento de Sistemas. Dedico meu dia a aprender e integrar práticas de segurança no ciclo de desenvolvimento de software. Estudante no Centro Educacional CCI Sênior.
+
+19-year-old Junior DevSecOps Developer passionate about tech and focused on Systems Analysis & Development. Dedicated to integrating security practices into continuous delivery pipelines. Student at Centro Educacional CCI Sênior.
+
+---
+
+### Tech Stack & Tools
+
+#### DevSecOps, Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws" width="48"> <img src="https://skillicons.dev/icons?i=azure" width="48"> <img src="https://skillicons.dev/icons?i=bash" width="48"> <img src="https://skillicons.dev/icons?i=docker" width="48"> <img src="https://skillicons.dev/icons?i=git" width="48"> <img src="https://skillicons.dev/icons?i=github" width="48"> <img src="https://skillicons.dev/icons?i=githubactions" width="48"> <img src="https://skillicons.dev/icons?i=md" width="48"> <img src="https://skillicons.dev/icons?i=netlify" width="48"> <img src="https://skillicons.dev/icons?i=vercel" width="48"> 
+
+#### Programming & Databases
+<img src="https://skillicons.dev/icons?i=html" width="48"> <img src="https://skillicons.dev/icons?i=css" width="48"> <img src="https://skillicons.dev/icons?i=js" width="48"> <img src="https://skillicons.dev/icons?i=linux" width="48"> <img src="https://skillicons.dev/icons?i=nodejs" width="48"> <img src="https://skillicons.dev/icons?i=powershell" width="48"> <img src="https://skillicons.dev/icons?i=py" width="48"> <img src="https://skillicons.dev/icons?i=react" width="48"> <img src="https://skillicons.dev/icons?i=stackoverflow" width="48"> <img src="https://skillicons.dev/icons?i=vscode" width="48"> <img src="https://skillicons.dev/icons?i=windicss" width="48"> <img src="https://skillicons.dev/icons?i=sqlite" width="48"> <img src="https://skillicons.dev/icons?i=mysql" width="48">
+
+---
+
+### Contacts / Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtjZHRwb3M5N3V2aHNobzN1eXpqd29oamowOXFncHlueXpuN3ZkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ya63hjCGVaHjmXzWy0/giphy.gif" alt="Skull">
+</div>
