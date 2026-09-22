@@ -25,7 +25,3 @@ Desenvolvedor DevSecOps júnior de 19 anos, apaixonado por tecnologia e focado e
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtjZHRwb3M5N3V2aHNobzN1eXpqd29oamowOXFncHlueXpuN3ZkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ya63hjCGVaHjmXzWy0/giphy.gif" alt="Skull">
-</div>
