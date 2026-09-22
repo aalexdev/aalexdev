@@ -1,13 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZiNXh4dzE2aGt4cW9kYmoxenNvYmt5YWhucnZjdGw4aGptdnowNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="650" height="300"/>
-</div>
-
 <h1 align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZwaGFub2E2emI0cTZsOTluaWZqMjlxZW4xcTMzNnFya2R2NnpidCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QrLlkjnfibr4EgcYCY/giphy.gif" width="40" height="40" style="vertical-align: middle;" />
   Hello, I'm Alexandre!
 </h1>
 
-### Junior DevSecOps Developer & Systems Analysis & Development Student
+### DevSecOps Developer & Systems Analysis & Development Student
 
 ---
 <h3 align="left">
@@ -16,16 +12,18 @@
 </h3>
 
 <p align="left">
-  <img src="https://flagcdn.com/20x15/br.png" alt="Brasil" style="vertical-align: middle;" /> Engenheiro DevSecOps Júnior de 19 anos, apaixonado por tecnologia e focado em construir minha carreira em DevSecOps. Dedico meu tempo a aprender e integrar práticas de segurança no ciclo de desenvolvimento de software (SDLC) e em Nuvem. Estudante no Centro Educacional CCI Sênior.
+  <img src="https://flagcdn.com/20x15/br.png" alt="Brasil" style="vertical-align: middle;" /> Engenheiro DevSecOps de 19 anos, apaixonado por tecnologia e focado em construir minha carreira em DevSecOps. Dedico meu tempo a aprender e integrar práticas de segurança no ciclo de desenvolvimento de software (SDLC) e em Nuvem. Estudante no Centro Educacional CCI Sênior.
 </p>
 
 <p align="left">
-  <img src="https://flagcdn.com/20x15/us.png" alt="USA" style="vertical-align: middle;" /> 19-year-old Junior DevSecOps Engineer, passionate about technology and focused on building my career in DevSecOps. I dedicate my time to learning and integrating security practices into the software development lifecycle (SDLC) and the cloud. Student at Centro Educacional CCI Sênior.
+  <img src="https://flagcdn.com/20x15/us.png" alt="USA" style="vertical-align: middle;" /> 19-year-old DevSecOps Engineer, passionate about technology and focused on building my career in DevSecOps. I dedicate my time to learning and integrating security practices into the software development lifecycle (SDLC) and the cloud. Student at Centro Educacional CCI Sênior.
 </p>
 
 ---
-
-### Tech Stack & Tools
+<h3 align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MmR6a2RkbXU1M3ZwNmV2YzAxeGl5Y2RsamthdzJ6dHB1ZGoxZzE1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ToMjGpyHdJiioVfdtK0/giphy.gif" width="28" height="28" style="vertical-align: middle;" />
+  Tech Stacks & Tools
+</h3>
 
 #### DevSecOps, Cloud & Infrastructure
 <img src="https://skillicons.dev/icons?i=aws" width="48"> <img src="https://skillicons.dev/icons?i=azure" width="48"> <img src="https://skillicons.dev/icons?i=bash" width="48"> <img src="https://skillicons.dev/icons?i=docker" width="48"> <img src="https://skillicons.dev/icons?i=git" width="48"> <img src="https://skillicons.dev/icons?i=github" width="48"> <img src="https://skillicons.dev/icons?i=githubactions" width="48"> <img src="https://skillicons.dev/icons?i=md" width="48"> <img src="https://skillicons.dev/icons?i=netlify" width="48"> <img src="https://skillicons.dev/icons?i=vercel" width="48"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="48"/>
