@@ -4,7 +4,7 @@
 
 # Hello, I'm Alexandre!
 
-### Junior DevSecOps Developer & Systems Analysis Student
+### Junior DevSecOps Developer & Systems Analysis & Development Student
 
 ---
 ### About Me / Sobre Mim
