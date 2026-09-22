@@ -9,9 +9,9 @@
 ---
 ### About Me / Sobre Mim
 
-Desenvolvedor DevSecOps júnior de 19 anos, apaixonado por tecnologia e focado em Desenvolvimento de Sistemas. Dedico meu dia a aprender e integrar práticas de segurança no ciclo de desenvolvimento de software. Estudante no Centro Educacional CCI Sênior.
+Engenheiro DevSecOps Júnior de 19 anos, apaixonado por tecnologia e focado em construir minha carreira em DevSecOps. Dedico meu tempo a aprender e integrar práticas de segurança no ciclo de desenvolvimento de software (SDLC) e em Nuvem. Estudante no Centro Educacional CCI Sênior.
 
-19-year-old Junior DevSecOps Engineer with a passion for technology and a focus on Systems Development. I dedicate my time to learning and embedding security practices throughout the software development lifecycle (SDLC). Currently studying at Centro Educacional CCI Sênior.
+19-year-old Junior DevSecOps Engineer passionate about technology and focused on building a career in DevSecOps. I dedicate my time to learning and integrating security practices across the software development lifecycle (SDLC) and cloud environments. Currently studying at Centro Educacional CCI Sênior.
 
 ---
 
