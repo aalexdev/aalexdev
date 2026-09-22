@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JrbHliZ3dsNnUyN291cTgxaGR0Y214eW1mdjBxOXA1MG8yZWdnbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JrbHliZ3dsNnUyN291cTgxaGR0Y214eW1mdjBxOXA1MG8yZWdnbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="650"/>
 </div>
 
 # Hello, I'm Alexandre!
