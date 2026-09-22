@@ -5,7 +5,6 @@
 <h1 align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZwaGFub2E2emI0cTZsOTluaWZqMjlxZW4xcTMzNnFya2R2NnpidCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QrLlkjnfibr4EgcYCY/giphy.gif" width="40" height="40" style="vertical-align: middle;" />
   Hello, I'm Alexandre!
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZwaGFub2E2emI0cTZsOTluaWZqMjlxZW4xcTMzNnFya2R2NnpidCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QrLlkjnfibr4EgcYCY/giphy.gif" width="40" height="40" style="vertical-align: middle;" />
 </h1>
 
 ### Junior DevSecOps Developer & Systems Analysis & Development Student
@@ -14,7 +13,6 @@
 <h3 align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFpcGNyOW56dGlsZXR1MXZtM2xxN3Vpc3o2b2tvNjgxcDYxODhpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uV6wFDdoZaQDf0xuwj/giphy.gif" width="28" height="28" style="vertical-align: middle;" />
   About Me / Sobre Mim
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFpcGNyOW56dGlsZXR1MXZtM2xxN3Vpc3o2b2tvNjgxcDYxODhpYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uV6wFDdoZaQDf0xuwj/giphy.gif" width="28" height="28" style="vertical-align: middle;" />
 </h3>
 
 Engenheiro DevSecOps Júnior de 19 anos, apaixonado por tecnologia e focado em construir minha carreira em DevSecOps. Dedico meu tempo a aprender e integrar práticas de segurança no ciclo de desenvolvimento de software (SDLC) e em Nuvem. Estudante no Centro Educacional CCI Sênior.
