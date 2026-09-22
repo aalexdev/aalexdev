@@ -7,7 +7,7 @@
 
 ---
 <h3 align="left">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k3bmt4dGhsZmR5aDgxbWwwbDNwdXg5dXV4MGg0NjZsYXZ0c3pweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ylyUQl358jhxMXjS1i/giphy.gif" width="28" height="28" style="vertical-align: middle;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k3bmt4dGhsZmR5aDgxbWwwbDNwdXg5dXV4MGg0NjZsYXZ0c3pweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ylyUQl358jhxMXjS1i/giphy.gif" width="30" height="30" style="vertical-align: middle;" />
   About Me / Sobre Mim
 </h3>
 
@@ -21,7 +21,7 @@
 
 ---
 <h3 align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MmR6a2RkbXU1M3ZwNmV2YzAxeGl5Y2RsamthdzJ6dHB1ZGoxZzE1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ToMjGpyHdJiioVfdtK0/giphy.gif" width="28" height="28" style="vertical-align: middle;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGtwYzVtaW80dXhldWxlMHhiMDNuc3ZqM2NsMHdvamN0Z21lMmlmZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jQnoEsIOZq7Yl5DxH0/giphy.gif" width="30" height="30" style="vertical-align: middle;" />
   Tech Stacks & Tools
 </h3>
 
