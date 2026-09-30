@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZwaGFub2E2emI0cTZsOTluaWZqMjlxZW4xcTMzNnFya2R2NnpidCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QrLlkjnfibr4EgcYCY/giphy.gif" width="40" height="40" style="vertical-align: middle;" />
   Hello, I'm Alexandre!
 </h1>
- 
+  
 ### DevSecOps Developer & Systems Analysis & Development Student
  
 ---
