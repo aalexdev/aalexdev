@@ -9,7 +9,7 @@
 <h3 align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k3bmt4dGhsZmR5aDgxbWwwbDNwdXg5dXV4MGg0NjZsYXZ0c3pweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ylyUQl358jhxMXjS1i/giphy.gif" width="30" height="30" style="vertical-align: middle;" /> 
   About Me / Sobre Mim
-</h3>
+</h3>  
 
 <p align="left">
   <img src="https://flagcdn.com/20x15/br.png" alt="Brasil" style="vertical-align: middle;" /> Engenheiro DevSecOps de 19 anos, apaixonado por tecnologia e focado em construir minha carreira em DevSecOps. Dedico meu tempo a aprender e integrar práticas de segurança no ciclo de desenvolvimento de software (SDLC) e em Nuvem. Estudante no Centro Educacional CCI Sênior.
