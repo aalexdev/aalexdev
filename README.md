@@ -12,11 +12,11 @@
 </h3>  
 
 <p align="left">
-  <img src="https://flagcdn.com/20x15/br.png" alt="Brasil" style="vertical-align: middle;" /> Engenheiro DevSecOps de 19 anos, apaixonado por tecnologia e focado em construir minha carreira em DevSecOps. Dedico meu tempo a aprender e integrar práticas de segurança no ciclo de desenvolvimento de software (SDLC) e em Nuvem. Estudante no Centro Educacional CCI Sênior.
+  <img src="https://flagcdn.com/20x15/br.png" alt="Brasil" style="vertical-align: middle;" /> Desenvolvedor DevSecOps de 19 anos, apaixonado por tecnologia e focado em construir minha carreira em DevSecOps. Dedico meu tempo a aprender e integrar práticas de segurança no ciclo de desenvolvimento de software (SDLC) e em Nuvem. Estudante no Centro Educacional CCI Sênior.
 </p>
 
 <p align="left">
-  <img src="https://flagcdn.com/20x15/us.png" alt="USA" style="vertical-align: middle;" /> 19-year-old DevSecOps Engineer, passionate about technology and focused on building my career in DevSecOps. I dedicate my time to learning and integrating security practices into the software development lifecycle (SDLC) and the cloud. Student at Centro Educacional CCI Sênior.
+  <img src="https://flagcdn.com/20x15/us.png" alt="USA" style="vertical-align: middle;" /> 19-year-old DevSecOps Developer, passionate about technology and focused on building my career in DevSecOps. I dedicate my time to learning and integrating security practices into the software development lifecycle (SDLC) and the cloud. Student at Centro Educacional CCI Sênior.
 </p>
 
 ---
