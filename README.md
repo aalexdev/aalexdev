@@ -3,7 +3,7 @@
   Hello, I'm Alexandre!         
 </h1>        
                        
-### DevSecOps Developer & Systems Analysis & Development Student                  
+### DevSecOps Developer & AI Engineer                
             
 ---            
 <h3 align="left"> 
