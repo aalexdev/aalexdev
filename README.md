@@ -11,7 +11,7 @@
   About Me / Sobre Mim
 </h3>    
  
-<p align="left">
+<p align="left"> 
   <img src="https://flagcdn.com/20x15/br.png" alt="Brasil" style="vertical-align: middle;" /> Desenvolvedor DevSecOps de 19 anos, apaixonado por tecnologia e focado em construir minha carreira em DevSecOps. Dedico meu tempo a aprender e integrar práticas de segurança no ciclo de desenvolvimento de software (SDLC) e em Nuvem. Estudante no Centro Educacional CCI Sênior.
 </p>
 
